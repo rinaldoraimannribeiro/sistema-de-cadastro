@@ -5,7 +5,7 @@
 Para rodar na sua máquina por favor digite:
 
 ...
-npm install
+npm install react
 ...
 
 
