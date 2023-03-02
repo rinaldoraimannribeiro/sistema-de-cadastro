@@ -7,6 +7,7 @@ Para rodar na sua máquina por favor digite:
 ...
 node app.js
 ...
+:)
 
 
 # Teste colicando no lugar de h1
